@@ -9,16 +9,9 @@
   <h2 align="center">Responsive Portfolio Website</h2>
 
   Responsive Portfolio Website using HTML, CSS, and JavaScript.
-
-  <a href="https://pawantech12.github.io/portfolio-website/"><strong>➥ Live Demo</strong></a>
-
 </div>
 
 <br />
-
-### Desktop Preview
-
-https://github.com/pawantech12/portfolio-website/assets/118673866/0322c419-a173-4aa9-a360-b09bd7bd24aa
 
 ### Prerequisites
 
@@ -122,22 +115,20 @@ AOS.init({
 
 To run **Personal Portfolio** locally, run this command on your git bash:
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/pawantech12/portfolio-website.git
-```
-
 Windows:
 
 ```bash
-git clone https://github.com/pawantech12/portfolio-website.git
+git clone https://github.com/dhanunjay/portfolio-website.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/codewithpawan/).
+If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/dhanunjayy10/).
 
 ### License
 
 This project is **Free To Use** and does not contains any license.
+
+### Guidence 
+
+Special Thanks to pawan for the guidence @codewithpawan
