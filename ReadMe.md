@@ -114,7 +114,7 @@ To run **Personal Portfolio** locally, run this command on your git bash:
 Windows:
 
 ```bash
-git clone https://github.com/dhanunjay/portfolio-website.git
+git clone https://github.com/dhanunjay10/portfolio-website.git
 ```
 
 ### Contact
